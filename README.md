@@ -6,8 +6,10 @@ Soy estudiante de desarrollo de aplicaciones web y amante del continuo aprendiza
 gracias a mis estudios he desarrollado habilidades en *Java, JavaScript , HTML, y CSS* asi como tambien en BBDD.
 
 🤓 Continúo mi aprendizaje en el campo de desarrollo de aplicaciones web.
+
 🧠 Me gusta aprender algo nuevo todos los dias por lo tanto estoy actualizada sobre las últimas tecnologías.
+
 📫 me puedes encontrar en linkedin como Valeria Clemente
----
+
 👀 Te invito a echarle un vistazo a mis repositorios para saber un poquito más de mi desarrollo
 como estudiante y mis habilidades puestas en práctica.
