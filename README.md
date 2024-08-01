@@ -1,16 +1,13 @@
-## Hi there 👋
+##  👋 ¡ Hola ! soy Valeria Bienvenidos a mi GitHub 😄
 
-<!--
-**Valcg/Valcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Soy estudiante de desarrollo de aplicaciones web y amante del continuo aprendizaje y redaccion de código, 
+gracias a mis estudios he desarrollado habilidades en *Java, JavaScript , HTML, y CSS* asi como tambien en BBDD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤓 Continúo mi aprendizaje en el campo de desarrollo de aplicaciones web.
+🧠 Me gusta aprender algo nuevo todos los dias por lo tanto estoy actualizada sobre las últimas tecnologías.
+📫 me puedes encontrar en linkedin como Valeria Clemente
+---
+👀 Te invito a echarle un vistazo a mis repositorios para saber un poquito más de mi desarrollo
+como estudiante y mis habilidades puestas en práctica.
